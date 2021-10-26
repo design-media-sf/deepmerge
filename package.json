@@ -27,8 +27,6 @@
   },
   "devDependencies": {
     "@types/node": "^8.10.54",
-    "is-mergeable-object": "1.1.0",
-    "is-plain-object": "^2.0.4",
     "jsmd": "^1.0.2",
     "rollup": "^1.23.1",
     "rollup-plugin-commonjs": "^10.1.0",
@@ -39,5 +37,8 @@
     "uglify-js": "^3.6.1"
   },
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+		"is-mergeable-object": "1.1.0",
+		"is-plain-object": "^2.0.4"
+	}
 }

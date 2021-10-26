@@ -38,7 +38,7 @@
   },
   "license": "MIT",
   "dependencies": {
-		"is-mergeable-object": "1.1.0",
-		"is-plain-object": "^2.0.4"
-	}
+    "is-mergeable-object": "1.1.0",
+    "is-plain-object": "^2.0.4"
+  }
 }
